@@ -1,4 +1,4 @@
-ARG POSTHOG_VERSION="release-1.28.0"
+ARG POSTHOG_VERSION="release-1.29.0"
 
 FROM posthog/posthog:$POSTHOG_VERSION
 
